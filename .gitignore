@@ -1,0 +1,13 @@
+# Ignore all daily notes (matching YYYY-MM-DD format)
+/*.md
+
+# Ignore volatile Obsidian system files
+.obsidian/workspace.json
+.obsidian/cache/
+.obsidian/indexed_db/
+
+# Ignore virtual environment
+.venv/
+
+# Ignore environment variables (contains personal paths)
+.env
