@@ -1,6 +1,3 @@
-# Ignore all daily notes (matching YYYY-MM-DD format)
-/*.md
-
 # Ignore volatile Obsidian system files
 .obsidian/workspace.json
 .obsidian/cache/
